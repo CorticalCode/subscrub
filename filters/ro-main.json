@@ -1,5 +1,9 @@
-[
-  "regie-live.ro",
-  "regielive.ro",
-  "www.subtitrari-noi.ro"
-]
+{
+  "version": "2026-03-01.1",
+  "description": "Romanian language filter patterns",
+  "filters": [
+    "regie-live.ro",
+    "regielive.ro",
+    "www.subtitrari-noi.ro"
+  ]
+}

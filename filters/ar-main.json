@@ -1,3 +1,7 @@
-[
-  "تعديل وتوقيت"
-]
+{
+  "version": "2026-03-01.1",
+  "description": "Arabic language filter patterns",
+  "filters": [
+    "تعديل وتوقيت"
+  ]
+}
