@@ -1,0 +1,25 @@
+{
+  "version": "2026.03",
+  "description": "Hungarian language filter patterns",
+  "filters": [
+    "/^felirat(ok)? (által|:)/",
+    "/^fordítás (által|:)/",
+    "/^fordította\\s*[:]/",
+    "/^készítette\\s*[:]/",
+    "/^szinkronizálás (által|:)/",
+    "/^javítás (által|:)/",
+    "/^szerkesztés (által|:)/",
+    "/^időzítés\\s*[:]/",
+    "/^letöltve innen/",
+    "feliratok.eu",
+    "feliratok.hu",
+    "feliratok.info",
+    "hosszupuska",
+    "supersubtitles",
+    "/feliratok\\.(eu|hu|info|org)/",
+    "/értékeld ezt a feliratot/",
+    "/felirat letöltése/",
+    "magyar - sdh",
+    "hungarian - sdh"
+  ]
+}

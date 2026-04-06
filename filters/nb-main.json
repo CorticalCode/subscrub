@@ -1,0 +1,32 @@
+{
+  "version": "2026.03",
+  "description": "Norwegian language filter patterns",
+  "filters": [
+    "/^undertekst(er|ing)? (av|fra|:)/",
+    "/^oversett(else)? (av|fra|:)/",
+    "/^oversatt (av|fra)/",
+    "/^synkroniser(t|ing)? (av|fra|:)/",
+    "/^korrigert (av|fra|:)/",
+    "/^rettet (av|fra|:)/",
+    "/^redigert (av|fra|:)/",
+    "/^opprettet (av|fra|:)/",
+    "/^transkribert (av|fra|:)/",
+    "/^tilpasset (av|fra|:)/",
+    "/^teksting (av|:)/",
+    "/^lastet ned fra/",
+    "norsksubs",
+    "undertekster.no",
+    "nordicbits",
+    "nordicsubs",
+    "skandisub",
+    "/annonser produktet ditt/",
+    "/bli vip.?medlem/",
+    "/de beste undertekstene/",
+    "/vurder denne underteksten/",
+    "/last ned undertekster/",
+    "norsk - sdh",
+    "norwegian - sdh",
+    "/undertekster? for hørselshemmede/",
+    "/undertekster? for døve/"
+  ]
+}

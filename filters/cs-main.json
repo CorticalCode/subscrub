@@ -1,0 +1,26 @@
+{
+  "version": "2026.03",
+  "description": "Czech language filter patterns",
+  "filters": [
+    "/^titulky (od|:)/",
+    "/^překlad (od|:)/",
+    "/^přeložil(a)? (od|:)/",
+    "/^překladatel\\s*[:]/",
+    "/^synchronizace (od|:)/",
+    "/^korekce (od|:)/",
+    "/^opravy (od|:)/",
+    "/^úpravy (od|:)/",
+    "/^vytvořil(a)?\\s*[:]/",
+    "/^časování\\s*[:]/",
+    "/^staženo z/",
+    "titulky.com",
+    "mytitulky",
+    "podtitulky",
+    "edna.cz",
+    "/titulky\\.com/",
+    "/ohodnoťte tyto titulky/",
+    "/stáhnout titulky/",
+    "čeština - sdh",
+    "czech - sdh"
+  ]
+}

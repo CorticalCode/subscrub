@@ -1,0 +1,33 @@
+{
+  "version": "2026.03",
+  "description": "Finnish language filter patterns",
+  "filters": [
+    "/^tekstitys\\s*(:|tekijä)/",
+    "/^tekstitykset\\s*[:]/",
+    "/^käännös\\s*(:|tekijä)/",
+    "/^käännetty\\s*[:]/",
+    "/^kääntäjä\\s*[:]/",
+    "/^synkronointi\\s*(:|tekijä)/",
+    "/^synkronoitu\\s*[:]/",
+    "/^ajastus\\s*[:]/",
+    "/^korjattu\\s*[:]/",
+    "/^korjaukset\\s*[:]/",
+    "/^muokattu\\s*[:]/",
+    "/^luotu\\s*[:]/",
+    "/^litteroitu\\s*[:]/",
+    "/^ladattu osoitteesta/",
+    "/^parannettu\\s*[:]/",
+    "divxfinland",
+    "finsub",
+    "subfinland",
+    "tekstityskone",
+    "/mainosta tuotettasi/",
+    "/liity vip.?jäseneksi/",
+    "/parhaat tekstitykset/",
+    "/arvioi tämä tekstitys/",
+    "/lataa tekstityksiä/",
+    "suomi - sdh",
+    "finnish - sdh",
+    "/tekstitykset kuulovammaisille/"
+  ]
+}

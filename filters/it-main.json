@@ -1,0 +1,31 @@
+{
+  "version": "2026.03",
+  "description": "Italian language filter patterns",
+  "filters": [
+    "/^sottotitol(i|o) (da|di|:)/",
+    "/^traduzione (da|di|:)/",
+    "/^tradotto (da|di)/",
+    "/^traduttore\\s*[:]/",
+    "/^sincronizzazione (da|di|:)/",
+    "/^sincronizzato (da|di)/",
+    "/^correzione (da|di|:)/",
+    "/^corretto (da|di)/",
+    "/^modificato (da|di)/",
+    "/^creato (da|di)/",
+    "/^adattamento (da|di|:)/",
+    "/^scaricato da/",
+    "/^trascrizione (da|di|:)/",
+    "italiansubs",
+    "subspedia",
+    "subsfactory",
+    "opensubtitles.it",
+    "sottotitoli.com",
+    "subita",
+    "addic7ed.it",
+    "/valuta questi sottotitoli/",
+    "/scarica sottotitoli/",
+    "italiano - sdh",
+    "italian - sdh",
+    "/membro vip/"
+  ]
+}

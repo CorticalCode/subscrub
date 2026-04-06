@@ -1,0 +1,33 @@
+{
+  "version": "2026.03",
+  "description": "Danish language filter patterns",
+  "filters": [
+    "/^undertekst(er|ning)? (af|fra|:)/",
+    "/^oversat (af|fra|:)/",
+    "/^oversættelse (af|fra|:)/",
+    "/^synkroniser(et|ing)? (af|fra|:)/",
+    "/^korrigeret (af|fra|:)/",
+    "/^rettet (af|fra|:)/",
+    "/^redigeret (af|fra|:)/",
+    "/^oprettet (af|fra|:)/",
+    "/^transskriberet (af|fra|:)/",
+    "/^tilpasset (af|fra|:)/",
+    "/^tekstning (af|:)/",
+    "/^downloadet fra/",
+    "/^hentet fra/",
+    "danishbits",
+    "dksubs",
+    "danskeundertekster",
+    "nordicsubs",
+    "undertekster.dk",
+    "/annoncer dit produkt/",
+    "/bliv vip.?medlem/",
+    "/de bedste undertekster/",
+    "/bedøm denne undertekst/",
+    "/download undertekster/",
+    "dansk - sdh",
+    "danish - sdh",
+    "/undertekster? (til|for) hørehæmmede/",
+    "/undertekster? (til|for) døve/"
+  ]
+}

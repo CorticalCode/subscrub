@@ -1,0 +1,31 @@
+{
+  "version": "2026.03",
+  "description": "Sindarin and Quenya language filter patterns",
+  "filters": [
+    "/^teithant\\s*[:]/",
+    "/^teithanner\\s*[:]/",
+    "/^pennas\\s*[:]/",
+    "/^peniath\\s*[:]/",
+    "/^prestannen\\s*[:]/",
+    "/^teitho\\s*(an|na|:)/",
+    "/^quettar\\s*[:]/",
+    "/^quenta\\s*[:]/",
+    "/^tecil\\s*[:]/",
+    "/^tengwar\\s*[:]/",
+    "/^ash nazg/",
+    "/^agh burzum/",
+    "/^ghâsh.*krimpatul/",
+    "teithant na TeamImladris",
+    "teithant na TeamGondor",
+    "sindarin-subs",
+    "quenya-subs",
+    "elvish-subtitles",
+    "rivendell.subs",
+    "arda-subtitles.me",
+    "minas-tirith.net/subs",
+    "lorien-fansubs",
+    "/edain\\.subtitles/",
+    "/lothlórien\\.subs/",
+    "/noldor\\.fansubs/"
+  ]
+}

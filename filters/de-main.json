@@ -1,5 +1,5 @@
 {
-  "version": "2026-03-01.1",
+  "version": "2026.03",
   "description": "German language filter patterns",
   "filters": [
     "/^.::s*(synchronisation|zeitpunkte|transkript)/",
@@ -8,14 +8,25 @@
     "/^transkripts*(von|:)/",
     "/^untertitel erstellt von/",
     "/^untertitels*(von|:)/",
+    "/^untertitel(ung)?\\s*(von|:)/",
     "/^zeitpunktes*:/",
     "/hören sies*:/",
     "/präsentiert vons*:/",
     "/synchronisation von/",
     "/synchronisation vons(:|)/",
     "/übersetzungs*:/",
+    "/^übersetzt von/",
+    "/^übersetzer\\s*:/",
+    "/^korrektur\\s*(von|:)/",
+    "/^korrigiert von/",
+    "/^bearbeitet von/",
+    "/^erstellt von/",
+    "/^angepasst von/",
+    "/^verbessert von/",
+    "/^heruntergeladen von/",
     "deutsch - sdh",
     "deutsch sdh",
+    "german - sdh",
     "septikämie",
     "subrip von",
     "synchronisation von",
@@ -30,6 +41,11 @@
     "untertitel synchronisiert mit",
     "untertitel.ru",
     "verbesserte untertitel",
-    "viel spaß bei der show !!"
+    "viel spaß bei der show !!",
+    "subcentral.de",
+    "untertitelparadies",
+    "hoerfilme.de",
+    "/bitte bewerte diese untertitel/",
+    "/deutsche? übersetzung/"
   ]
 }

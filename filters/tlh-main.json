@@ -1,0 +1,19 @@
+{
+  "version": "2026.03",
+  "description": "Klingon (tlhIngan Hol) language filter patterns",
+  "filters": [
+    "/^mughwI'\\s*[:]/",
+    "/^mugh(ta'|pu')\\s*[:]/",
+    "/^ghItlhwI'\\s*[:]/",
+    "/^chenmoHwI'\\s*[:]/",
+    "/^lIngwI'\\s*[:]/",
+    "/^mugh chenmoH/",
+    "/^naDev mugh/",
+    "/^QIn mugh/",
+    "tlhIngan Hol mughwI'",
+    "Qo'noS subtitles",
+    "klingon empire subs",
+    "fed-subs.qonos",
+    "tlhingan-hol.org"
+  ]
+}

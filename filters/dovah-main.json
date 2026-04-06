@@ -1,0 +1,23 @@
+{
+  "version": "2026.03",
+  "description": "Dovahzul language filter patterns",
+  "filters": [
+    "/^sahrot\\s*[:]/",
+    "/^dovahzul\\s*[:]/",
+    "/^zul\\s*[:]/",
+    "/^thu'um\\s*[:]/",
+    "/^kendov\\s*[:]/",
+    "/^dov\\s*(do|:)/",
+    "/^tinvaak\\s*[:]/",
+    "/^sahrot mey/",
+    "/^zul do/",
+    "dovahkiin-subs",
+    "whiterun-fansubs",
+    "greybeards.translations",
+    "college-of-winterhold.subs",
+    "thieves-guild-subs",
+    "high-hrothgar.net",
+    "skyrim-subtitles",
+    "tamriel-subs"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": "2026.03",
+  "description": "Turkish language filter patterns",
+  "filters": [
+    "/^altyazı(lar)? (tarafından|:)/",
+    "/^çeviri(si)? (tarafından|:)/",
+    "/^çeviren\\s*[:]/",
+    "/^tercüme (tarafından|:)/",
+    "/^senkronize (eden|tarafından|:)/",
+    "/^düzenleme (tarafından|:)/",
+    "/^düzenleyen\\s*[:]/",
+    "/^hazırlayan\\s*[:]/",
+    "/^oluşturan\\s*[:]/",
+    "/^zamanlama\\s*[:]/",
+    "/^indirilen (yer|site)\\s*[:]/",
+    "/^indir(ildi)? (buradan|:)/",
+    "turkcealtyazi",
+    "planetdp",
+    "altyazi.org",
+    "divxplanet",
+    "turktorrent",
+    "altyazicilar",
+    "/türkçe altyazı/",
+    "/altyazıyı değerlendir/",
+    "/altyazı indir/",
+    "türkçe - sdh",
+    "turkish - sdh"
+  ]
+}

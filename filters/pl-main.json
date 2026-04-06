@@ -1,0 +1,29 @@
+{
+  "version": "2026.03",
+  "description": "Polish language filter patterns",
+  "filters": [
+    "/^napisy (przez|od|:)/",
+    "/^tłumaczenie (przez|od|:)/",
+    "/^przetłumaczono (przez|od)/",
+    "/^tłumacz\\s*[:]/",
+    "/^synchronizacja (przez|od|:)/",
+    "/^korekta (przez|od|:)/",
+    "/^poprawki (przez|od|:)/",
+    "/^edycja (przez|od|:)/",
+    "/^stworzono (przez|od)/",
+    "/^pobrano z/",
+    "/^napisał\\s*[:]/",
+    "napisy24",
+    "napiprojekt",
+    "osnapisy",
+    "napisydownload",
+    "polskie-napisy",
+    "/napisy24\\.pl/",
+    "/napiprojekt\\.pl/",
+    "/oceń te napisy/",
+    "/pobierz napisy/",
+    "polski - sdh",
+    "polish - sdh",
+    "/napisy dla niesłyszących/"
+  ]
+}

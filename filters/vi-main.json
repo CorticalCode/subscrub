@@ -1,0 +1,26 @@
+{
+  "version": "2026.03",
+  "description": "Vietnamese language filter patterns",
+  "filters": [
+    "/^phụ đề (bởi|từ|:)/",
+    "/^dịch (bởi|từ|:)/",
+    "/^người dịch\\s*[:]/",
+    "/^biên dịch\\s*[:]/",
+    "/^đồng bộ (bởi|từ|:)/",
+    "/^chỉnh sửa (bởi|từ|:)/",
+    "/^hiệu chỉnh (bởi|từ|:)/",
+    "/^tạo bởi/",
+    "/^tải từ/",
+    "/^tải về từ/",
+    "vietsub",
+    "kphim",
+    "phimmoi",
+    "phimvang",
+    "subscene.vn",
+    "fptplay",
+    "/đánh giá phụ đề/",
+    "/tải phụ đề/",
+    "tiếng việt - sdh",
+    "vietnamese - sdh"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "version": "2026-03-01.1",
+  "version": "2026.03",
   "description": "User-contributed filter patterns",
   "filters": [
     "594mgnav",
@@ -34,6 +34,7 @@
     "memoryonsmells",
     "mrsk",
     "mstoll",
+    "nahom release",
     "normita.326",
     "point.360",
     "provided by synchronized",
